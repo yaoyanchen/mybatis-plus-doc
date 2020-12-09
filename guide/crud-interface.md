@@ -226,7 +226,6 @@ int insert(T entity);
 | 类型 | 参数名 | 描述 |
 | :-: | :-: | :-: |
 | T | entity | 实体对象 |
-
 ### Delete
 ``` java
 // 根据 entity 条件，删除记录
